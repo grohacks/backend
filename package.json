@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js",
+=======
+     "start": "node server.js",
+>>>>>>> 5640d2e8da7ec3d86b2dc6d8725a1cc31b69a6f8
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "",
